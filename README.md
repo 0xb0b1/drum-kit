@@ -1,1 +1,1 @@
-follow javascript30[javascript30.com]
+follow javascript30.com
