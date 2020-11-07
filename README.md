@@ -1,1 +1,1 @@
-<a href="javascript30" target="_blank">Follow javascript30</a>
+<a href="https://javascript30.com/" target="_blank">Follow javascript30</a>
